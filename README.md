@@ -1,1 +1,1 @@
-# Simon-AntheaMyles_LW2_Image_Classification
+# Plant-Species-Image-Classification
